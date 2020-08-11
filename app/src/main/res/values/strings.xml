@@ -1,0 +1,9 @@
+<resources>
+    <string name="application_description">Minecraft clock widget.</string>
+
+    <string name="application_label">Mineclock</string>
+
+    <string name="clock_widget_image_description">Clock</string>
+
+    <string name="clock_widget_text_description">Debugging information</string>
+</resources>

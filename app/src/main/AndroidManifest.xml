@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mineclock"
+>
+    <application
+        android:description="@string/application_description"
+        android:icon="@mipmap/launcher_icon"
+        android:label="@string/application_label"
+    >
+        <receiver android:name=".ClockAppWidgetProvider">
+            <intent-filter>
+                <action android:name="android.intent.action.TIME_SET"/>
+
+                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
+            </intent-filter>
+
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_DISABLED"/>
+
+                <action android:name="android.appwidget.action.APPWIDGET_ENABLED"/>
+
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE"/>
+
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE_OPTIONS"/>
+            </intent-filter>
+
+            <intent-filter>
+                <action android:name="com.example.mineclock.action.UPDATE_ALARM_FIRED"/>
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/clock_widget_provider_info"
+            />
+        </receiver>
+    </application>
+</manifest>

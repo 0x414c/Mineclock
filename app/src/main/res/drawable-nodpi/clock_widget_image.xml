@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:maxLevel="0">
+        <bitmap android:src="@drawable/clock_00" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="1">
+        <bitmap android:src="@drawable/clock_01" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="2">
+        <bitmap android:src="@drawable/clock_02" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="3">
+        <bitmap android:src="@drawable/clock_03" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="4">
+        <bitmap android:src="@drawable/clock_04" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="5">
+        <bitmap android:src="@drawable/clock_05" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="6">
+        <bitmap android:src="@drawable/clock_06" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="7">
+        <bitmap android:src="@drawable/clock_07" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="8">
+        <bitmap android:src="@drawable/clock_08" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="9">
+        <bitmap android:src="@drawable/clock_09" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="10">
+        <bitmap android:src="@drawable/clock_10" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="11">
+        <bitmap android:src="@drawable/clock_11" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="12">
+        <bitmap android:src="@drawable/clock_12" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="13">
+        <bitmap android:src="@drawable/clock_13" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="14">
+        <bitmap android:src="@drawable/clock_14" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="15">
+        <bitmap android:src="@drawable/clock_15" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="16">
+        <bitmap android:src="@drawable/clock_16" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="17">
+        <bitmap android:src="@drawable/clock_17" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="18">
+        <bitmap android:src="@drawable/clock_18" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="19">
+        <bitmap android:src="@drawable/clock_19" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="20">
+        <bitmap android:src="@drawable/clock_20" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="21">
+        <bitmap android:src="@drawable/clock_21" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="22">
+        <bitmap android:src="@drawable/clock_22" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="23">
+        <bitmap android:src="@drawable/clock_23" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="24">
+        <bitmap android:src="@drawable/clock_24" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="25">
+        <bitmap android:src="@drawable/clock_25" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="26">
+        <bitmap android:src="@drawable/clock_26" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="27">
+        <bitmap android:src="@drawable/clock_27" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="28">
+        <bitmap android:src="@drawable/clock_28" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="29">
+        <bitmap android:src="@drawable/clock_29" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="30">
+        <bitmap android:src="@drawable/clock_30" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="31">
+        <bitmap android:src="@drawable/clock_31" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="32">
+        <bitmap android:src="@drawable/clock_32" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="33">
+        <bitmap android:src="@drawable/clock_33" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="34">
+        <bitmap android:src="@drawable/clock_34" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="35">
+        <bitmap android:src="@drawable/clock_35" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="36">
+        <bitmap android:src="@drawable/clock_36" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="37">
+        <bitmap android:src="@drawable/clock_37" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="38">
+        <bitmap android:src="@drawable/clock_38" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="39">
+        <bitmap android:src="@drawable/clock_39" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="40">
+        <bitmap android:src="@drawable/clock_40" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="41">
+        <bitmap android:src="@drawable/clock_41" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="42">
+        <bitmap android:src="@drawable/clock_42" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="43">
+        <bitmap android:src="@drawable/clock_43" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="44">
+        <bitmap android:src="@drawable/clock_44" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="45">
+        <bitmap android:src="@drawable/clock_45" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="46">
+        <bitmap android:src="@drawable/clock_46" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="47">
+        <bitmap android:src="@drawable/clock_47" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="48">
+        <bitmap android:src="@drawable/clock_48" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="49">
+        <bitmap android:src="@drawable/clock_49" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="50">
+        <bitmap android:src="@drawable/clock_50" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="51">
+        <bitmap android:src="@drawable/clock_51" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="52">
+        <bitmap android:src="@drawable/clock_52" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="53">
+        <bitmap android:src="@drawable/clock_53" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="54">
+        <bitmap android:src="@drawable/clock_54" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="55">
+        <bitmap android:src="@drawable/clock_55" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="56">
+        <bitmap android:src="@drawable/clock_56" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="57">
+        <bitmap android:src="@drawable/clock_57" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="58">
+        <bitmap android:src="@drawable/clock_58" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="59">
+        <bitmap android:src="@drawable/clock_59" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="60">
+        <bitmap android:src="@drawable/clock_60" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="61">
+        <bitmap android:src="@drawable/clock_61" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="62">
+        <bitmap android:src="@drawable/clock_62" android:filter="false"/>
+    </item>
+
+    <item android:maxLevel="63">
+        <bitmap android:src="@drawable/clock_63" android:filter="false"/>
+    </item>
+</level-list>
